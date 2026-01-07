@@ -1,0 +1,7 @@
+{
+  "name": "Braintrader",
+  "description": "A professional-grade trading journal for high-performance discipline and psychological edge.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
